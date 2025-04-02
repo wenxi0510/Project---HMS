@@ -23,3 +23,14 @@ The Hospital Management System is an Object-Oriented Programming (OOP) project d
 - Implement RESTful APIs for integration with external systems.
 - Add AI-driven patient diagnosis suggestions.
 - Improve the user interface with modern UI frameworks.
+
+##Contributors
+- Chiang Wen Xi
+- Joshua Foo
+- Clarabelle Chua
+- Kieran Voo
+- Neo Iching
+
+
+
+
